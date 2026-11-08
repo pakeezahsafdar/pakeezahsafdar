@@ -20,7 +20,7 @@ I'm a BS Software Engineering graduate on a 90-day journey to become a job-ready
 React • Node.js / FastAPI • SQL • REST APIs • Deployment
 
 ## 📫 Connect with me
-- 💼 LinkedIn: # Hi, I'm [Your Name] 👋
+- 💼 LinkedIn: # Hi, I'm Pakeeza Safdar 👋
 
 **Software Engineering Graduate | Aspiring Full-Stack & AI Developer**
 
